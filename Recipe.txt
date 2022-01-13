@@ -5,3 +5,6 @@ Kitchen
 
 Veg 
 Apple
+
+non veg
+ Chicken
