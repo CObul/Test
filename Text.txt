@@ -6,3 +6,8 @@ Date
 Customer
 
 Success
+
+Hello 
+add 
+USD
+INR
